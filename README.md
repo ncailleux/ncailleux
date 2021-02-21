@@ -14,7 +14,7 @@ Lead dev at Sommelier du Parfum. Dev, dog, cinema, music and travel lover.
 - Sommelier on Android: https://play.google.com/store/apps/details?id=com.sommelierduparfum.app
 
 ### Me
-- Twitter: https://twitter.com/Criquet_teuqirC
 - Random: https://random-project.now.sh/
+- Twitter: https://twitter.com/_Criquet_
 - Dope one: <a href="https://www.youtube.com/watch?v=7iPyz6Yqwl4">Must see</a>
 - Dope two: <a href="https://www.youtube.com/watch?v=euYS4ldiMjc">Listen that</a>
