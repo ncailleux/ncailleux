@@ -1,4 +1,4 @@
-# Hey, I'm Nicolas Cailleux
+# Hey, I'm Nico
 
 Lead dev at Sommelier du Parfum. Dev, dog, cinema, music and travel lover.
 
